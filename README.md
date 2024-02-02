@@ -128,7 +128,7 @@ function external_call(address destination, uint value, uint dataLength, bytes m
     }
 ```
 
-전체코드 링크
+[전체코드 링크](https://raw.githubusercontent.com/choyeah/MultisigWalletLearningKit/main/tutorial_hardhat/contracts/MultiSigWallet.sol)
 
 ## multisig 배포하기
 
